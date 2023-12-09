@@ -1,11 +1,9 @@
-Privacy Agreement
-By agreeing to this Privacy Agreement, you agree to Extinguish's use of the specified permissions and processing of your personal information during the runtime in according to the Privacy Agreement.
-1. Permissions
-    a) Displayed on other applications.
-    Extinguish needs this permission to display the controller used to let you control the screen off.
+By agreeing to this Privacy Agreement, you agree to Extinguish's use of the specified permissions.
+1. Extinguish will use the permissions in the following ways.
+    a) Display on other applications.
+    Extinguish uses this permission to display the controllers used to allow you to control the screen going off.
     b) Shizuku.
-    Extinguish needs this permission to enable control of the screen's power state and to enhance Extinguish's ability to listen to the volume keys.
-2. Private Information
-    a) Extinguish collects and processes your personal information for its functions.
-    b) Extinguish never sends your personal information to anyone.
-This privacy agreement is effective from Extinguish version 0.1.18. Once you agree to this Privacy Agreement, the Extinguish Privacy Agreement you previously agreed to will also expire.
+    Extinguish uses this permission to control the power state and brightness of the screen.
+    Extinguish uses this permission to listen for volume keys and screen tap events and uses them only for your means of controlling whether the screen goes off or brights up.
+2. Extinguish does not collect personal information and will not send your personal information to anyone.
+This Privacy Agreement is effective from Extinguish version 0.2.5. By agreeing to this Privacy Agreement, any previous Extinguish Privacy Agreements you may have agreed to will expire at the same time.
